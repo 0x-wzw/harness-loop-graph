@@ -1,0 +1,16 @@
+{
+  "source_router": "harness-loop-graph (covers u03, u06, u09, u13 as cards)",
+  "promoted_candidates": [
+    "u01",
+    "u02",
+    "u04",
+    "u05",
+    "u07",
+    "u08",
+    "u10",
+    "u11",
+    "u12"
+  ],
+  "soft_budget_entries": "1 router + 9 promoted = 10 > 8; propose demote u09 (graph vocabulary) and u11 (four cuts) to router cards, leaving 1+7=8",
+  "note": "Stage 1.6 proposal only; no compile or install before user light-confirmation"
+}
